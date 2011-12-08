@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+    <title>{% if page.title %}{{ page.title }} | {% endif %}pboos.ch</title>
+
+    <script type="text/javascript" src="http://use.typekit.com/jjw2jrj.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+    <link type="text/css" rel="stylesheet" href="/stylesheets/reset.css">
+    <link type="text/css" rel="stylesheet" href="/stylesheets/screen.css">
+    <link type="text/css" rel="stylesheet" href="/stylesheets/code.css">
+    <link rel="alternate" type="application/atom+xml"
+      title="User Obsessed Feed" href="http://feeds.feedburner.com/userobsessed" />
+
+    <link rel="apple-touch-icon" href="/images/iOS-114.png" />
+    <link rel="apple-touch-icon-precomposed" href="/images/iOS-57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" media="screen and (resolution: 132dpi)" href="/images/iOS-72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" media="screen and (resolution: 326dpi)" href="/images/iOS-114.png" />
+
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+
+  </head>
+  <body class="{{ page.layout }}">
+    
+    <div id="wrap">
+      <div id="container"  >
+        <div id="header">
+          <div id="caption">
+            <!--<h1 id="title"><a href="http://blog.pboos.ch/">pboos.ch</a></h1>
+            <div id="tagline">Blog of Patrick Boos</div>-->
+          </div>
+          <div class="fixed"></div>
+        </div>
+
+        <div id="navigation">
+          <ul id="menus">
+            <li class="page_item"><a class="home" title="Home" href="/">Home</a></li>
+            <li class="page_item lastmenu"><a href="/about.html" title="About">About</a></li>
+          </ul>
+          <div class="fixed"></div>
+        </div>
+        <div id="content">
+          <div id="main">
+            <div class="post" id="post-2">
+              <div class="content">
+                {{ content }}
+                <div class="fixed"></div>
+              </div>
+            </div>
+          </div>
+
+          <div id="sidebar">
+            <div id="northsidebar" class="sidebar">
+              <div class="widget">
+                <h3>Social Networks</h3>
+                <ol>
+                  <li><a href="http://twitter.com/pboos" target="_blank">Twitter</a></li>
+                  <li><a href="http://gplus.to/pboos" target="_blank">Google+</a></li>
+                </ol>
+              </div>
+              <div class="widget">
+                <h3>Coming</h3>
+                <p>...</p>
+              </div>
+            </div>
+            <script type="text/javascript"><!--
+            google_ad_client = "pub-9389661914469631";
+            /* pboos.ch */
+            google_ad_slot = "4274305178";
+            google_ad_width = 160;
+            google_ad_height = 600;
+            //-->
+            </script>
+          </div>
+          <div class="fixed"></div>
+        </div>
+        <div id="footer">
+          <a id="gotop" href="#" onclick="MGJS.goTop();return false;">Top</a>
+          <!--<a id="powered" href="http://wordpress.org/">WordPress</a>
+          <div id="copyright">
+            Copyright &copy; 2008-2011 pboos.ch </div>
+          <div id="themeinfo">
+            Theme by <a href="http://www.neoease.com/">NeoEase</a>. Valid <a href="http://validator.w3.org/check?uri=referer">XHTML 1.1</a> and <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">CSS 3</a>.  </div>-->
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-12406481-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+  </body>
+</html>

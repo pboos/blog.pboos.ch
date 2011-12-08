@@ -1,0 +1,9 @@
+url: "http://blog.pboos.ch"
+pygments: true
+exclude: [/bin, Gemfile, Gemfile.lock]
+markdown: rdiscount
+permalink: /:year/:month/:title/
+paginate: 50
+
+kramdown:
+  entity_output: symbolic
