@@ -2,19 +2,12 @@
 author: admin
 date: '2009-10-03 11:08:58'
 layout: default
-slug: sleeptimer-for-android
+permalink: 'sleeptimer-for-android/index.html'
 status: publish
 title: SleepTimer for Android
-wordpress_id: '465'
 ---
 
----
-title: About
-layout: default
-author: admin
-date: '2008-01-28 16:36:15'
-
----
+## SleepTimer for Android
 
 Current Version: 1.2
 
@@ -54,27 +47,12 @@ IMPORTANT:
   * Froyo and higher: This app can not kill the app starting with Froyo. But SleepTimer will try to pause the music player with a "Pause Media Broadcast" (selectable in settings). If that does not work, it is not possible to pause the music off that app. Google made that impossible for me with some changes in Froyo.
   * Froyo and higher rooted: If the phone is rooted it tries to still kill the if possible through root, but is not always successful.
 
-You can help by:
+Download:
 
-  * Submitting Bugs [through Bug/Feature request in program]
-  * Submitting Feature Requests [through Bug/Feature request in program]
-  * Donating [[here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BAZUNJ8H2QN64&lc=CH&item_name=SleepTimer&item_number=sleeptimer&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)]
-[![](https://www.paypal.com/en_US/CH/i/btn/btn_donateCC_LG.gif)](https://www.p
-aypal.com/cgi-bin/webscr?cmd=_donations&business=BAZUNJ8H2QN64&lc=CH&item_name
-=SleepTimer&item_number=sleeptimer&currency_code=USD&bn=PP%2dDonationsBF%3abtn
-_donateCC_LG%2egif%3aNonHosted)
-
-Download: Through the Android Market on your phone (search for SleepTimer)
-
-[![barcode](http://pboos.ch/wordpress/wp-
-content/uploads/2009/10/chart.png)](http://pboos.ch/wordpress/wp-
-content/uploads/2009/10/chart.png)
+[![Android Market](http://www.android.com/images/brand/60_avail_market_logo1.png)](https://market.android.com/details?id=ch.pboos.android.SleepTimer)
+![barcode](/images/sleeptimer-for-android/qrcode.png)
 
 Screenshots:
 
-[![sleeptimer](http://pboos.ch/wordpress/wp-content/uploads/2009/10
-/sleeptimer-200x300.png)](http://pboos.ch/wordpress/wp-
-content/uploads/2009/10/sleeptimer.png) [![img2](http://pboos.ch/wordpress/wp-
-content/uploads/2009/10/img2-200x300.jpg)](http://pboos.ch/wordpress/wp-
-content/uploads/2009/10/img2.png)
-
+![barcode](/images/sleeptimer-for-android/sleeptimer.png)
+![barcode](/images/sleeptimer-for-android/sleeptimer2.jpg)
