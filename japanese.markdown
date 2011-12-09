@@ -1,7 +1,7 @@
 ---
 author: admin
 date: '2010-01-16 21:09:41'
-layout: page
+layout: default
 slug: japanese
 status: publish
 title: Japanese

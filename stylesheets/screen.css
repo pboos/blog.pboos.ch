@@ -383,6 +383,7 @@ section#posts #list #entry #entry-date {
 .post h2 {
   display:block;
   margin-top:10px;
+  margin-bottom:10px;
   border-bottom:1px solid #CCC;
   padding:0 5px 3px;
   font-size:16px;
