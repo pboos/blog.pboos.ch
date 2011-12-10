@@ -39,9 +39,10 @@ This will print out the path to the html file where you can see a nice report. S
 If you have libraries that you use and you get an error. Make sure you put them into a "libs" directory. ant automatically adds the libraries in "libs" to the build path.
 
 Example for coverage report:
-[![](http://blog.pboos.ch/wp-content/uploads/2011/06/source_file-262x300.png)](http://blog.pboos.ch/wp-content/uploads/2011/06/source_file.png)
-[![](http://blog.pboos.ch/wp-content/uploads/2011/06/overall-300x130.png)](http://blog.pboos.ch/wp-content/uploads/2011/06/overall.png)
-[![](http://blog.pboos.ch/wp-content/uploads/2011/06/package-300x101.png)](http://blog.pboos.ch/wp-content/uploads/2011/06/package.png)
+
+![](/images/posts/2011-06-29-coverage-fo-android-tests/source_file.png)
+![](/images/posts/2011-06-29-coverage-fo-android-tests/overall.png)
+![](/images/posts/2011-06-29-coverage-fo-android-tests/package.png)
 
 **[UPDATE]**
 
